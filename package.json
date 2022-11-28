@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-activity",
+  "version": "1.0.0",
+  "description": "United Testing App",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aaron Brown",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
